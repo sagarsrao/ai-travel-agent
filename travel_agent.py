@@ -60,7 +60,7 @@ def generate_ics_content(plan_text:str, start_date: datetime = None) -> bytes:
 
 # Set up the Streamlit app
 st.title("AI Travel Planner ✈️")
-st.caption("Plan your next adventure with AI Travel Planner using Gemini Flash")
+st.caption("Plan your next adventure with AI Travel Planner powered by Ollama & Llama 3.2 — 100% Free & Local!")
 
 # Initialize session state to store the generated itinerary
 if 'itinerary' not in st.session_state:
