@@ -71,7 +71,7 @@ Open your browser at `http://localhost:8501`, enter your SerpAPI key, and start 
 
 ## 📸 Demo
 
-> Enter a destination → AI researches it → Get a full itinerary in seconds!
+> ![AI Travel Planner Screenshot](./aitravelplanner.png)
 
 ---
 
